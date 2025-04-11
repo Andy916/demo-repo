@@ -7,5 +7,3 @@ Some description!
 Watch tutorial on Youtube.
 
 I like GitHub!
-
-Sena is gay
